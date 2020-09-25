@@ -1,0 +1,58 @@
+[
+    {
+        "nomeDoLivro": "A emparedada da rua nova",
+        "editora": "Fundação de Cultura Cidade do Recife",
+        "lançamento": 1984,
+        "autor(es)": "Carneiro Vilela",
+        "gênero": ["Ficção", "Romance de amor"]
+    },
+    {
+        "nomeDoLivro": "Assombração do Recife Velho",
+        "editora": "Global Editora",
+        "lançamento": 1974,
+        "autor(es)": "Gilberto Freyre",
+        "gênero": ["Quadrinhos", "Romance gráfico"]
+    },
+    {
+        "nomeDoLivro": "Morte e Vida Severina",
+        "editora": "Tuca",
+        "lançamento": 1955,
+        "autor(es)": "João Cabral de Melo Neto",
+        "gênero": "poema"
+    },
+    {
+        "nomeDoLivro": "Lisbela e o Prisioneiro",
+        "editora": "Scipione",
+        "lançamento": 1964,
+        "autor(es)": "Osman Lins",
+        "gênero": "Drama"
+    },
+    {
+        "nomeDoLivro": "O Cabeleira: História pernambucana",
+        "editora": "Independently published",
+        "lançamento": 1876,
+        "autor(es)": "Franklin Távora",
+        "gênero": "Romance"
+    },
+    {
+        "nomeDoLivro": "Fernando de Noronha: lendas e fatos pitorescos",
+        "editora": "Projeto Esmeralda/UFPE/TFFN",
+        "lançamento": 1987,
+        "autor(es)": "Maria José Borges Lins e Silva",
+        "gênero": ""
+    },
+    {
+        "nomeDoLivro": "A cozinha pernambucana em Gilberto Freyre: um encontro entre povos e culturas",
+        "editora": "Biblioteca 24 Horas",
+        "lançamento": 2013,
+        "autor(es)": "Raul Lody",
+        "gênero": ""
+    },
+    {
+        "nomeDoLivro": "ESCRITORES PERNAMBUCANOS DO SÉCULO XIX - TOMO 1",
+        "editora": "Cepe",
+        "lançamento": 2010,
+        "autor(es)": "Raul Lody",
+        "gênero": ["literatura", "ensaio"]
+    }
+]
