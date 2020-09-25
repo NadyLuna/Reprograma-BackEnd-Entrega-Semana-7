@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 
-const index = require('./routes/index');
-const livros = require('./routes/livrosRoute');
+const index = require('./route/index');
+const livros = require('./route/livrosRouter');
 
 app.use((req, res, next) => {
     console.log('Nova requisição realizada');
