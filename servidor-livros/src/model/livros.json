@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "nomeDoLivro": "A emparedada da rua nova",
         "editora": "Fundação de Cultura Cidade do Recife",
         "lançamento": 1984,
@@ -7,6 +8,7 @@
         "gênero": ["Ficção", "Romance de amor"]
     },
     {
+        "id": 2,
         "nomeDoLivro": "Assombração do Recife Velho",
         "editora": "Global Editora",
         "lançamento": 1974,
@@ -14,6 +16,7 @@
         "gênero": ["Quadrinhos", "Romance gráfico"]
     },
     {
+        "id": 3,
         "nomeDoLivro": "Morte e Vida Severina",
         "editora": "Tuca",
         "lançamento": 1955,
@@ -21,6 +24,7 @@
         "gênero": "poema"
     },
     {
+        "id": 4,
         "nomeDoLivro": "Lisbela e o Prisioneiro",
         "editora": "Scipione",
         "lançamento": 1964,
@@ -28,6 +32,7 @@
         "gênero": "Drama"
     },
     {
+        "id": 5,
         "nomeDoLivro": "O Cabeleira: História pernambucana",
         "editora": "Independently published",
         "lançamento": 1876,
@@ -35,6 +40,7 @@
         "gênero": "Romance"
     },
     {
+        "id": 6,
         "nomeDoLivro": "Fernando de Noronha: lendas e fatos pitorescos",
         "editora": "Projeto Esmeralda/UFPE/TFFN",
         "lançamento": 1987,
@@ -42,6 +48,7 @@
         "gênero": ""
     },
     {
+        "id": 7,
         "nomeDoLivro": "A cozinha pernambucana em Gilberto Freyre: um encontro entre povos e culturas",
         "editora": "Biblioteca 24 Horas",
         "lançamento": 2013,
@@ -49,6 +56,7 @@
         "gênero": ""
     },
     {
+        "id": 8,
         "nomeDoLivro": "ESCRITORES PERNAMBUCANOS DO SÉCULO XIX - TOMO 1",
         "editora": "Cepe",
         "lançamento": 2010,
