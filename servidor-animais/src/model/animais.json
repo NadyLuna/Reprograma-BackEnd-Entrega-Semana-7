@@ -1,5 +1,6 @@
 [
     {
+        "id":1,
         "nomeCientifico": "Nycticebus",
         "nomePopular":"Slow loris",
         "classe": "Mammalia",
@@ -7,6 +8,7 @@
         "Estado de conservação": "Espécie Vunerável"
     },
     {
+        "id":2,
         "nomeCientifico": "Aix galericulata",
         "nomePopular":"marreco-mandarim",
         "classe": "aves",
@@ -14,6 +16,7 @@
         "Estado de conservação": "Espécie pouco preocupante"
     },
     {
+        "id":3,
         "nomeCientifico": "Tapirus terrestris",
         "nomePopular":"Anta",
         "classe": "Mammalia",
@@ -21,6 +24,7 @@
         "Estado de conservação": "Espécie Vuneravel"
     },  
     {
+        "id":4,
         "nomeCientifico": "Phycodurus eques",
         "nomePopular":"Dragão-marinho-folhado",
         "classe": "Actinopterygii",
@@ -28,6 +32,7 @@
         "Estado de conservação": "Quase ameaçada"
     },  
     {
+        "id":5,
         "nomeCientifico": "Caulophryne jordani",
         "nomePopular":"pescador fanfin",
         "classe": "Actinopterygii",
@@ -35,6 +40,7 @@
         "Estado de conservação": "Pouco preocupante"
     },  
     {
+        "id":6,
         "nomeCientifico": "Macaca fuscata",
         "nomePopular":"Macaco-japonês",
         "classe": "Mammalia",
@@ -42,6 +48,7 @@
         "Estado de conservação": "Pouco preocupante"
     },   
     {
+        "id":7,
         "nomeCientifico": "Inia geoffrensis",
         "nomePopular":"Boto-cor-de-rosa",
         "classe": "Mammalia",
@@ -49,6 +56,7 @@
         "Estado de conservação": "Espécie em perigo"
     }, 
     {
+        "id":8,
         "nomeCientifico": "Inia geoffrensis",
         "nomePopular":"Boto-cor-de-rosa",
         "classe": "Mammalia",
@@ -56,13 +64,15 @@
         "Estado de conservação": "Espécie em perigo"
     },  
     {
+        "id":9,
         "nomeCientifico": "Panthera leo × Panthera tigris",
         "nomePopular":"Ligre",
         "classe": "Mammalia",
         "familia": "Felidae",
         "Estado de conservação": ""
     },  
-        {
+    {
+        "id":9,
         "nomeCientifico": "Atelopus",
         "nomePopular":"sapo-roxo-fluorescente",
         "classe": "Amphibia",
@@ -70,6 +80,7 @@
         "Estado de conservação": ""
     }, 
     {
+        "id":10,
         "nomeCientifico": "Pholidota",
         "nomePopular":"Pangolim",
         "classe": "Mammalia",
