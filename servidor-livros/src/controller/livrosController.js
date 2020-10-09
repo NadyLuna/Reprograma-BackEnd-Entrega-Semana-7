@@ -1,7 +1,7 @@
-const animais = require('../model/livros.json');
+const livros = require('../model/livros.json');
 
 const getAll = (req, res) => {
     console.log(req.url);
-    res.send(animais);
+    res.send(livros);
 }
 module.exports ={getAll};
